@@ -8,7 +8,7 @@ My experience includes data wrangling, statistical modeling, Bayesian analysis, 
 
 - [Skills](#Skills)
 - [Projects](#Projects)
-    - [Climate change and biomass accumulation](#🌳)
+    - [Climate change and biomass accumulation](https://github.com/rubyceleste/Portfolio/blob/main/README.md#the-effects-of-climate-change-on-aboveground-biomass-accumulation)
 
 
 ## Skills
