@@ -8,7 +8,7 @@ My experience includes data wrangling, statistical modeling, Bayesian analysis, 
 
 - [Skills](#Skills)
 - [Projects](#Projects)
-
+    - [Climate change and biomass accumulation](#🌳)
 
 
 ## Skills
