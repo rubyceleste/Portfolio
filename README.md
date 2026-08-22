@@ -189,8 +189,7 @@ This research is ongoing, however we can see that a majority of our forecasted v
 
 The full scripts and data for this research can be found [here.](https://github.com/PalEON-Project/RW-2-BIO/tree/master/reboot)
 
-
-
+## Holocene albedo change
 
 
 
