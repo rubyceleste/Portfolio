@@ -8,8 +8,8 @@ My experience includes data wrangling, statistical modeling, Bayesian analysis, 
 
 - [Skills](#skills)
 - [Projects](#projects)
-    - [Climate change and biomass accumulation](#the-effects-of-climate-change-on-aboveground-biomass-accumulation)
-    - [Estimating Holocene albedo using fossil-pollen data](#holocene-albedo-change-estimated-using-fossil-pollen-data)
+    - [Climate change and biomass accumulation](#biomass)
+    - [Estimating Holocene albedo using fossil-pollen data](#holocene-albedo)
 
 ## Skills
 
@@ -36,6 +36,7 @@ My experience includes data wrangling, statistical modeling, Bayesian analysis, 
 
 # Projects 
 
+<a id="biomass"></a>
 ## 🌳 The effects of climate change on aboveground biomass accumulation
 
 This research using tree-ring data and various climate variables across the Northeastern United States to forecast the effects of climate change on aboveground biomass accumulation. 
@@ -189,6 +190,8 @@ This research is ongoing, however we can see that a majority of our forecasted v
 
 The full scripts and data for this research can be found [here.](https://github.com/PalEON-Project/RW-2-BIO/tree/master/reboot)
 
+
+<a id="holocene-albedo"></a>
 ## ☀️ Holocene albedo change estimated using fossil pollen data
 
 This research uses fossil pollen data from (period) to estimate Holocene albedo change. Present (200X-XXXX) albedo data was pulled from .... and used to create a calibration model. 
