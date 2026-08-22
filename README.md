@@ -9,7 +9,7 @@ My experience includes data wrangling, statistical modeling, Bayesian analysis, 
 - [Skills](#Skills)
 - [Projects](#Projects)
     - [Climate change and biomass accumulation](https://github.com/rubyceleste/Portfolio/blob/main/README.md#the-effects-of-climate-change-on-aboveground-biomass-accumulation)
-    - [Estimating Holocene albedo using fossil-pollen data](https://github.com/rubyceleste/Portfolio/blob/main/README.md#holocene-albedo-change)
+    - [Estimating Holocene albedo using fossil-pollen data](☀️holocene-albedo-change-estimated-using-fossil-pollen-data)
 
 ## Skills
 
@@ -189,7 +189,7 @@ This research is ongoing, however we can see that a majority of our forecasted v
 
 The full scripts and data for this research can be found [here.](https://github.com/PalEON-Project/RW-2-BIO/tree/master/reboot)
 
-## ☀️ Holocene albedo change estimated using fossil pollen data
+## ☀️Holocene albedo change estimated using fossil pollen data
 
 This research uses fossil pollen data from (period) to estimate Holocene albedo change. Present (200X-XXXX) albedo data was pulled from .... and used to create a calibration model. 
 
