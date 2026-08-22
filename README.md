@@ -78,7 +78,7 @@ This figure shows biomass increment over time at each of our sites.
 
 ### Summarizing climate data
 
-Climate data was pulled from the PRISM climate database: monthly values of minimum, maximum, mean temperature, minimum, maximum, VPD, and precipitation. Which was then  summarized into seasonal values. 
+Climate data was pulled from the [PRISM climate database](https://prism.oregonstate.edu/): monthly values of minimum, maximum, mean temperature, minimum, maximum, VPD, and precipitation. Which was then  summarized into seasonal values. 
 
 ```R
 #summarizing precipitation into seasonal data
