@@ -39,7 +39,7 @@ My experience includes data wrangling, statistical modeling, Bayesian analysis, 
 <a id="biomass"></a>
 ## 🌳 The effects of climate change on aboveground biomass accumulation
 
-This project began as a an internship requirement for my MPS degree, the full report can be found [here](https://scholarship.miami.edu/esploro/outputs/report/Forest-carbon-accumulation-patterns-and-drivers/991032728735502976?institution=01UOML_INST) This work is ongoing. 
+This project began as a an internship requirement for my MPS degree, the full report can be found [here](https://scholarship.miami.edu/esploro/outputs/report/Forest-carbon-accumulation-patterns-and-drivers/991032728735502976?institution=01UOML_INST), this work is ongoing. 
 
 Tree-ring data and various climate variables across the Northeastern United States were used to forecast the effects of climate change on aboveground biomass accumulation. 
 The goal of this research is to determine the predictability of biomass accumulation and explore what may be driving growth and how accurate our predictions might be. 
