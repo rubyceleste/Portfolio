@@ -194,9 +194,18 @@ The full scripts and data for this research can be found [here.](https://github.
 
 
 <a id="holocene-albedo"></a>
-## ☀️ Holocene albedo change estimated using fossil pollen data
+## ☀️ Holocene albedo change estimated using fossil-pollen data
 
 This research uses fossil pollen data from (period) to estimate Holocene albedo change. Present (200X-XXXX) albedo data was pulled from .... and used to create a calibration model. 
+
+### Pollen data
+
+Pollen data was collected from the [Neotoma Paleoecology Database](https://www.neotomadb.org/) which spans across the Canada, US and Mexico? 
+
+
+### Albedo data
+
+Present Albedo data used for the calibration model was pulled from .....
 
 
 UNDER CONSTRUCTION :)
