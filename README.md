@@ -189,7 +189,10 @@ This research is ongoing, however we can see that a majority of our forecasted v
 
 The full scripts and data for this research can be found [here.](https://github.com/PalEON-Project/RW-2-BIO/tree/master/reboot)
 
-## Holocene albedo change
+## ☀️ Holocene albedo change estimated using fossil pollen data
+
+This research uses fossil pollen data from (period) to estimate Holocene albedo change. Present (200X-XXXX) albedo data was pulled from .... and used to create a calibration model. 
+
 
 
 
